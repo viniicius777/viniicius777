@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Ola eu me chamo @viniicius777
+- 👋 Ola eu me chamo @_viniizy_
 - 👀 Meu gmail de contato vinicius.vasconcelos@escola.pr.gov.br
 - 🌱 Eu estou interessado em aprender a programar novas linguagens 
 - 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
